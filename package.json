@@ -1,0 +1,7 @@
+{
+  "name": "tr-vue-mixins",
+  "version": "1.0.0",
+  "description": "Vue tequilarapido mixins helpers",
+  "main": "index.js",
+  "license": "MIT"
+}
