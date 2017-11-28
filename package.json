@@ -1,7 +1,11 @@
 {
   "name": "tr-vue-mixins",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue tequilarapido mixins helpers",
-  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tequilarapido/tr-vue-mixins.git"
+  },
+  "main": "src/index.js",
   "license": "MIT"
 }
